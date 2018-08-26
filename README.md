@@ -2,6 +2,8 @@
 
 Python ctypes 对 hyperscan 的封装，支持最新版的 hyperscan(4.5.x)
 
+Simple Python ctypes warp for the Hyperscan project.
+
 supported hyperscan version : 4.5.x
 
 require: python 2.7 +
