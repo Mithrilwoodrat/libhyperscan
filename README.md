@@ -1,8 +1,10 @@
-# pyhyperscan
+# libhyperscan
 
-ctypes 对 hyperscan 的封装，支持最新版的 hyperscan(4.5.x)
+Python ctypes 对 hyperscan 的封装，支持最新版的 hyperscan(4.5.x)
 
 supported hyperscan version : 4.5.x
+
+require: python 2.7 +
 
 ## Installation
 
